@@ -30,16 +30,10 @@ Here are some ideas to get you started:
   &nbsp; <a href="https://www.linkedin.com/in/el%C3%ADas-berto-020216169/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
 </p>
 
-<table>
- <tr>
-   <td>
+<div display='flex'>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberia-Place&layout=compact&theme=prussian" />
-   </td>
-   <td>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberia-Place&show_icons=true&theme=prussian" />
-   </td>
- </tr>
-</table>
+</div>
 
 <!--
 <h3> 🛠 &nbsp;Tech Stack</h3>
