@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <table border="0">
  <tr>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberia-Place&layout=compact&theme=onedark" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberia-Place&layout=compact&theme=prussian" />
    </td>
    <td>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberia-Place&show_icons=true&theme=onedark" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberia-Place&show_icons=true&theme=prussian" />
    </td>
  </tr>
 </table>
