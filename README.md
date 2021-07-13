@@ -36,14 +36,7 @@ Here are some ideas to get you started:
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberia-Place&layout=compact&theme=cobalt" />
    </td>
    <td>
-     <a href="https://github.com/Cyberia-Place">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberia-Place&show_icons=true&theme=cobalt" />
-       
-<!--
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberia-Place&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
--->
-     </a>
-
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberia-Place&show_icons=true&theme=cobalt" />
    </td>
  </tr>
 </table>
