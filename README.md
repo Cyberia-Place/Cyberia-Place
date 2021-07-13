@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   &nbsp; <a href="https://www.linkedin.com/in/el%C3%ADas-berto-020216169/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
 </p>
 
-<table cellspacing="0" cellpadding="0">
+<table style="border: none;">
  <tr>
    <td>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberia-Place&layout=compact&theme=prussian" />   </td>
