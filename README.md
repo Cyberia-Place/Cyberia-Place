@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: space-between;">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberia-Place&layout=compact&theme=prussian" />   
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberia-Place&show_icons=true&theme=prussian" />
-</table>
+</div>
 
 <!--
 <h3> 🛠 &nbsp;Tech Stack</h3>
