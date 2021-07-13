@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 <!-- [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)-->
 <h1 align='left'> Hello there! :wave:</h1>
-<p align='left'>I'm Elías.</p>
+<p align='left'><h3>I'm Elías.</h3></p>
 <p align='left'>
-🔭 I’m currently searching for an introductory job in the industry
+<h3>🔭 I’m currently searching for an introductory job in the industry</h3>
 </p>
 <p align='left'>
-🌱 I’m currently learning PHP in Udemy
+<h3>🌱 I’m currently learning PHP in Udemy</h3>
 </p>
 <p align='left'>
-<h3> 📫 How to reach me: </h3>
+<h3>📫 How to reach me:</h3>
 </p>
 
 <p align='left'>
