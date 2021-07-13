@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Cyberia-Place/Cyberia-Place** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)-->
-<h1 align='left'> Hi! :wave:</h1>
+<h1 align='left'> Hello there! :wave:</h1>
 <p align='left'>I'm Elías.</p>
 <p align='left'>
 🔭 I’m currently searching for an introductory job in the industry
