@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 <table>
  <tr>
-   <td style="border: none;">
+   <td>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberia-Place&layout=compact&theme=prussian" />   
    </td>
-   <td style="border: none;">
+   <td>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberia-Place&show_icons=true&theme=prussian" />
    </td>
  </tr>
