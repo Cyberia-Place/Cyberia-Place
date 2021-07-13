@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 <p align='left'>
 🌱 I’m currently learning PHP in Udemy
 </p>
+<p align='left'>
+<h3> 📫 How to reach me: </h3>
+</p>
+
+<p align='left'>
+  &nbsp; <a href="https://www.linkedin.com/in/el%C3%ADas-berto-020216169/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
+</p>
 
 <table border="0">
  <tr>
@@ -70,15 +77,6 @@ Here are some ideas to get you started:
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![Figma](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=Photoshop)
   -->
-
-<p align='left'>
-<h3> 📫 How to reach me: </h3>
-</p>
-
-<p align='left'>
-  &nbsp; <a href="https://www.linkedin.com/in/el%C3%ADas-berto-020216169/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
-</p>
-
 
 <!--
 
