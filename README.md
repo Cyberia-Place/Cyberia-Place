@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align='left'> Hello there! :wave:</h1>
 <p align='left'><h3>I'm Elías.</h3></p>
 <p align='left'>
-<h3>🔭 I’m currently searching for an introductory job in the industry</h3>
+<h3>🔭 I’m currently looking for an entry-level job in the industry</h3>
 </p>
 <p align='left'>
 <h3>🌱 I’m currently learning PHP in Udemy</h3>
